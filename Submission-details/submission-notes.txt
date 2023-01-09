@@ -1,0 +1,1 @@
+elastic beanstalk deployment link "http://udagram-kawara-dev-dev.us-east-1.elasticbeanstalk.com/"
